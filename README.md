@@ -31,5 +31,5 @@ Please give me all the credits if you use or fork this repository, it took me a 
 I created this tool as a way to develop my skills in Rust programming language. As a personal exercise, I have created a simple program that performs a certain task. I want to emphasize that I am not advocating for or promoting any malicious activity such as DDoS attacks. Instead, my intention is to use this tool for educational purposes only. I believe that by exploring the fundamentals of Rust and practicing different programming techniques, I can become a more proficient developer and contribute to the advancement of technology in a positive way.
 
 # Contact
-Discord: ``snake,,#5675``
+Discord: ``snake,,#5675``  
 Instagram: ``__snake_666``
